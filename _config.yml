@@ -10,3 +10,5 @@ include: ['_includes/work']
 sass:
   sass_dir: assets/css
   style: :nested
+
+github: github.com/viktorsnt/template_2
